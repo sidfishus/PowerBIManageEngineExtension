@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "PowerBIManageEngineExtension", "PowerBIManageEngineExtension.mproj", "{1E84E60D-83AD-4CE6-B4C5-BA3929523E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E84E60D-83AD-4CE6-B4C5-BA3929523E23}.Debug|x86.ActiveCfg = Debug|x86
+		{1E84E60D-83AD-4CE6-B4C5-BA3929523E23}.Debug|x86.Build.0 = Debug|x86
+		{1E84E60D-83AD-4CE6-B4C5-BA3929523E23}.Release|x86.ActiveCfg = Release|x86
+		{1E84E60D-83AD-4CE6-B4C5-BA3929523E23}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F79A136-D4EB-4ECE-A9F0-B863166DAE0F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://wlp-tfs:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PowerBIManageEngineExtension.mproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
