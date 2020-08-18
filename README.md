@@ -6,5 +6,7 @@ Replace the data in files 'client_id' and 'client_secret' with the appropriate v
 
 # References
 https://www.manageengine.com/products/service-desk/sdpod-v3-api/SDPOD-V3-API.html
+
 https://www.manageengine.com/products/service-desk/sdpod-v3-api/SDPOD-V3-API.html#register-your-application
+
 https://docs.microsoft.com/en-us/power-query/samples/github/readme
